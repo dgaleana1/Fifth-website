@@ -1,5 +1,6 @@
 table, th, td{
     border: 1px solid #b0c4de;
+    background-color: #faf0e6;
 }
 
 body{
@@ -8,3 +9,4 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+
