@@ -1,0 +1,10 @@
+table, th, td{
+    border: 1px solid #b0c4de;
+}
+
+body{
+    background-image: url(https://www.usatoday.com/gcdn/presto/2022/05/25/USAT/719946ca-660e-4ebf-805a-2c3b7d221a85-Hero-3.jpg?width=1200&disable=upscale&format=pjpg&auto=webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
